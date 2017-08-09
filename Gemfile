@@ -15,6 +15,7 @@ gem 'puma', '~> 3.7'
 gem 'rack-cors'
 gem 'graphql'
 gem 'graphiql-rails'
+gem 'devise'
 
 # Graphiql rails needs these
 gem 'sass-rails'

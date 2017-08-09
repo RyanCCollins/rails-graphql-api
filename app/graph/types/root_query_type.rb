@@ -1,17 +1,7 @@
 RootQueryType = GraphQL::ObjectType.define do
   name 'RootQuery'
   description 'The root level query type'
-  
-  field :users, UserType do
-    resolve -> (_, __, ___) do
-      [
-        {
-          id: 1,
-          name: 'Test User',
-          bio: 'Test bio',
-          avatar: 'none'
-        }
-      ]
-    end
-  end
+
+  field :users, types[UserType], field: FieldGenerator::CreateField.all(type: types[UserType], model: User)
+  field :user, types[UserType], field: FieldGenerator::CreateField.one(type: UserType, model: User)
 end
