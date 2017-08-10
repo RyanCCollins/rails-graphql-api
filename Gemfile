@@ -16,6 +16,7 @@ gem 'rack-cors'
 gem 'graphql'
 gem 'graphiql-rails'
 gem 'devise'
+gem 'ffaker'
 
 # Graphiql rails needs these
 gem 'sass-rails'

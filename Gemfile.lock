@@ -58,6 +58,7 @@ GEM
       warden (~> 1.2.3)
     erubi (1.6.1)
     execjs (2.7.0)
+    ffaker (2.6.0)
     ffi (1.9.18)
     globalid (0.4.0)
       activesupport (>= 4.2.0)
@@ -163,6 +164,7 @@ DEPENDENCIES
   byebug
   coffee-rails
   devise
+  ffaker
   graphiql-rails
   graphql
   listen (>= 3.0.5, < 3.2)
