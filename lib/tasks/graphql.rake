@@ -12,5 +12,6 @@ namespace :graphql do
         )
       )
     end
+    puts "Created schema"
   end
 end
