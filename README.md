@@ -9,7 +9,7 @@ This project aims to provide the minimal setup to get started with a GraphQL on 
 5. Browse to http://localhost:3000/graphiql
 
 ## Tasks
-To generate the GraphQL `schema.json` file, run `rake graphql:schema`
+- Generate the GraphQL `schema.json` file: `rake graphql:schema`
 
 ## Examples
 - [The Agency CMS (Work in Progress)](https://github.com/RyanCCollins/the-agency)
