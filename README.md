@@ -6,7 +6,7 @@ This project aims to provide the minimal setup to get started with a GraphQL on 
 2. Clone this repo: `git clone https://github.com/RyanCCollins/rails-graphql-api`
 3. Install the dependencies: `bundle install` and then setup the database: `rails db:setup`
 4. Run the web server: `rails s`
-5. Browse to https://localhost:3000/graphiql
+5. Browse to http://localhost:3000/graphiql
 
 ## Examples
 - [The Agency CMS (Work in Progress)](https://github.com/RyanCCollins/the-agency)
