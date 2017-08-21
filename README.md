@@ -12,6 +12,6 @@ This project aims to provide the minimal setup to get started with a GraphQL on 
 - `rake graphql:schema` Generate the GraphQL `schema.json` file
 
 ## Examples
-- [The Agency CMS (Work in Progress)](https://github.com/RyanCCollins/the-agency)
+- [The Agency CMS](https://github.com/RyanCCollins/the-agency) (Work in Progress)
 - [RyanCollins.io](https://github.com/RyanCCollins/ryancollinsio)
 - [Udacity Alumni API](https://github.com/udacityalumni/udacity-alumni-api)
