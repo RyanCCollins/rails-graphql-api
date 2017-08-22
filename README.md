@@ -1,6 +1,5 @@
 ![rails-graphql-api](https://user-images.githubusercontent.com/13810084/29590491-212f2a20-8768-11e7-86e6-4bdbfb5d8594.png)
 
-# Rails GraphQL API
 This project aims to provide the minimal setup to get started with a GraphQL on Rails API.
 
 ## Documentation
