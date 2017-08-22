@@ -5,7 +5,8 @@ This project aims to provide the minimal setup to get started with a GraphQL on 
 ## Documentation
 1. [Install Rails 5](http://railsapps.github.io/installrubyonrails-mac.html)
 2. Clone this repo: `git clone https://github.com/RyanCCollins/rails-graphql-api`
-3. Install the dependencies: `bundle install` and then setup the database: `rails db:setup` (pg must be running on your machine)
+3. Install the dependencies: `bundle install` 
+4. Setup the database: `rails db:setup` ([pg](https://wiki.postgresql.org/wiki/Detailed_installation_guides) must be running on your machine)
 4. Run the web server: `rails s`
 5. Browse to http://localhost:3000/graphiql
 
