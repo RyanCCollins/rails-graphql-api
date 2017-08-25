@@ -14,6 +14,8 @@ This project aims to provide the minimal setup to get started with a GraphQL on 
 - `rake graphql:schema` Generate the GraphQL `schema.json` file
 
 ## Examples
+Below are several examples of apps that use GraphQL on Rails
+
 - [The Agency CMS](https://github.com/RyanCCollins/the-agency) (Work in Progress)
 - [RyanCollins.io](https://github.com/RyanCCollins/ryancollinsio)
 - [Udacity Alumni API](https://github.com/udacityalumni/udacity-alumni-api)
