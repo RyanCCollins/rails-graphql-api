@@ -6,10 +6,7 @@ This project aims to provide the minimal setup to get started with a GraphQL on 
 
 ### With Docker
 1. Clone this repo: `git clone https://github.com/RyanCCollins/rails-graphql-api`
-1. Run: ```
-docker-compose build
-docker-compose up
-docker-compose run app rake db:setup ```
+1. Run: `docker-compose build` `docker-compose up` `docker-compose run app rake db:setup`
 1. Browse to http://localhost:3000/graphiql
 
 ### Without Docker
