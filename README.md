@@ -2,7 +2,7 @@
 
 This project aims to provide the minimal setup to get started with a GraphQL on Rails API.
 
-## Documentation
+## Installation
 
 ### With Docker
 1. Clone this repo: `git clone https://github.com/RyanCCollins/rails-graphql-api`
